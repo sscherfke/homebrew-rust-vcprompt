@@ -1,8 +1,8 @@
 class RustVcprompt < Formula
   desc "Informative version control prompt for your shell"
   homepage "https://github.com/sscherfke/rust-vcprompt"
-  url "https://github.com/sscherfke/rust-vcprompt/archive/0.1.0.tar.gz"
-  sha256 "3c51261c7b75f04de566d97a95530521f71fb8b99529deab5ce8af97702c7acf"
+  url "https://github.com/sscherfke/rust-vcprompt/archive/1.0.0.tar.gz"
+  sha256 "17afaaef3dcd4fd150f3fbc16a6d653a280ce09350c36d332b215a4756537354"
   head "https://github.com/sscherfke/rust-vcprompt.git"
 
   depends_on "rust" => :build
